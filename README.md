@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am a passionate student of Systems Analysis and Development. I believe that software development is not just about writing code but about shaping the future by creating innovative solutions that can make a real difference in people's lives."</h4>
+<h4 align="left">My name is Vinícius Rabaneda and I am a student of Systems Analysis and Development. I believe that software development is not just about writing code but about shaping the future by creating innovative solutions that can make a real difference in people's lives."</h4>
 
 ###
 
@@ -12,11 +12,31 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47pvkj5vt2xdo8lfbvt9r3fnq6129ynl1il4o4euvt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47pvkj5vt2xdo8lfbvt9r3fnq6129ynl1il4o4euvt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<p align="left">💡 I’m currently learning  Angular, Kubernetes and Docker;<br><br>📖 Academic background: <br><br>    * Associate's Degree in Systems Analysis and Development (In Progress) - FATEC<br>    * Bachelor's Degree in Production Engineering (2021) - UFSCAR<br>    * Technical Course in IT (2014) - IFSP<br><br>📫 How to reach me: www.linkedin.com/in/viniciusrabaneda/</p>
+<p align="left">
+  
+💡 **I’m currently learning**: 
+
+  * Angular ;
+  * Docker;
+  * Kubernetes.
+    
+<br>
+
+📖 **Academic background**:
+
+* Associate's Degree in Systems Analysis and Development (In Progress) - FATEC 
+* Bachelor's Degree in Production Engineering (2021) - UFSCAR
+* Technical Course in IT (2014) - IFSP
+<br>
+
+📫 **How to reach me:** www.linkedin.com/in/viniciusrabaneda
+  
+  <br>
+  </p>
 
 ###
 
