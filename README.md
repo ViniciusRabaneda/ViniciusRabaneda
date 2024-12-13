@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Vinícius Rabaneda and I am a student of Systems Analysis and Development. I believe that software development is not just about writing code but about shaping the future by creating innovative solutions that can make a real difference in people's lives."</h4>
+<h4 align="left">My name is Vinícius Rabaneda and I am a student of Systems Analysis and Development. I believe that software development is not just about writing code but about shaping the future by creating innovative solutions that can make a real difference in people's lives.</h4>
 
 ###
 
